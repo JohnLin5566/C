@@ -1,0 +1,80 @@
+1.	enter the grade ,and average the grade
+2.	enter the pass of fail ,and calculate it
+3.	calculate Factorial
+4.	for loop practice
+5.	double for loop for power series
+6.	power series
+7.	calculate Factorial
+8.	exponential function
+9.	factorial with power series
+10.	*password of 4 numbers
+11.	*change string
+12.	arithmetic progression
+13.	function training
+14.	switch training with getchar function
+15.	do while loop training
+16.	break training and show the different between "==" and "="
+17.	continue training
+18.	get the character codes in decimal
+19.	distinguish the max and min between 5 numbers
+20.	distinguish max and min between 10 numbers and use for loop
+21.	subtract the number you enter until the number become zero
+22.	like c21, but use one variable
+23.	summation i from n=0 to n=i with three method(for, while, do while)
+24.	get the log of the first number with the second number as base
+25.	like c21, but different way to use for loop (faster and easier)
+26.	like c24, but use for loop
+27.	how to use the EOF in while
+28.	factorial with while and EOF
+29.	add the number of digits 
+30.	function declaration and definition 
+31.	like c29, but use function
+32.	use c31 to practice void function
+33.	compare which one number is biger
+34.
+35	?fflush, file open and close, still need to learning 
+36. 	binary seach
+37.	calendar version1.0
+38.	*calendar version2.0
+39.	random number rand() practice
+40.	creat five random numbers with seed and srand()
+41.	find the RAND_MAX and coding a program to simulate a dice
+42.	GAME: guess number
+43.	simulate 500 times dice
+44.	? scanf control
+45.	simulate a dice , run the dice number after enter
+46.	?try to rewrite c45 with function
+47.	time_t, struct tm, time() practice
+48.	frequency of primes, clock_t, clock(), CLOCKS_PER_SEC
+49.	find the prime from 2 to 100
+50.	enter a number to determine is a prime or not, and write with a function
+51.	Finding the maximun integer after entering three tegers
+52.	example of local_static, and explain the different between auto and static variable
+53.	example of externl variable
+54.	A scoping example
+55.	check the digits add in successive is the same or not
+56.	Room sort_tile check
+57.	Combination number with two different method, and detect the nanosec for each other
+58.	Recursive factorial function
+59.	Recursive fibonacci function and detect the spend time	
+60.	math function practice, fabs, floor, ceil
+61.	Car parks & Charges
+62.	integerPower
+63.	star square
+64.	Find the factors of the number
+65.	Find the greatest common divisor(GCD) of the two integers
+66.	Roll a die 6000 times, and calculate it with function and switch
+67.	define the size of array with " # ", and for loop with array
+68.	Student poll program
+69.	Histogram printing program
+70.	Roll a die 6000 times with array
+71.	??Three arrays with different length use pointer
+72.	HomeWork 5.29, make sure the answer is right or not
+73.	Hanoi	
+74.	Treating character arrays as strings
+75.	Static arrays are initialized to zero, and practicing static variable
+76.	The name of an array is the same as &array[0]
+77.	Passing arrays and individual array elements to functions
+78.	constant variable
+79.	Demonstrating the const type qualifier with arrays
+80.	"Bubble sort", sorts an array's value into ascending order
